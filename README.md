@@ -12,7 +12,7 @@ The script uses the ```tidyverse``` packages for manipulation and plotting so if
 
 ```install.packages("tidyverse")```
 
-Please note that the code uses the updated options introduced in ```readR`` v2.0 so if you have an older install of readR/tidyverse then you'll likely need to update readR to get things to work.  After you've loaded tidyverse you can check the version of readr using ```sessionInfo()```.  You need to see ```readr_2.0.0``` (or higher).
+Please note that the code uses the updated options introduced in ```readR``` v2.0 so if you have an older install of readR/tidyverse then you'll likely need to update readR to get things to work.  After you've loaded tidyverse you can check the version of readr using ```sessionInfo()```.  You need to see ```readr_2.0.0``` (or higher).
 
 To update readR just run:
 
